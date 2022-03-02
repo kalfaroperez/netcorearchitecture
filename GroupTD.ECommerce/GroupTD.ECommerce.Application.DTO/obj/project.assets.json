@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
       "projectName": "GroupTD.ECommerce.Application.DTO",
-      "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
+      "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
       "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\obj\\",
+      "outputPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

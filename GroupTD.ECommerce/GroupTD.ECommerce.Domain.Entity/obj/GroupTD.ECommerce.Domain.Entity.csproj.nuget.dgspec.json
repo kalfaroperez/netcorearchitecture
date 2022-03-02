@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj": {}
+    "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj": {
+    "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj",
         "projectName": "GroupTD.ECommerce.Domain.Entity",
-        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj",
+        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj",
         "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\obj\\",
+        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

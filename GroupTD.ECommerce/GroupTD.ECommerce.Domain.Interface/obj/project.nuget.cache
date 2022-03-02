@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KMl+7uy/noByc/dZp7Z+9t+4s9YDzy2736mlt1o+AUNDu+eel9ssAomUhQFkVeGz4wU5fVfW9EN717CCzQS66A==",
+  "dgSpecHash": "YjJGJCKAaMIf7mLpdh4cz4Ms3KomcqrClmnX8dZpGWnKcoC4RebjrkKL943vbikM4lqvAy5D9ZMDMWrT97BWMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\GroupTD.ECommerce.Domain.Interface.csproj",
+  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\GroupTD.ECommerce.Domain.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

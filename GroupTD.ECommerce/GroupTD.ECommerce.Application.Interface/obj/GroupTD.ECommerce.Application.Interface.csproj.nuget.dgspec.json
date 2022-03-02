@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj": {}
+    "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj": {
+    "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
         "projectName": "GroupTD.ECommerce.Application.DTO",
-        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
+        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj",
         "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\obj\\",
+        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj": {
+    "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj",
         "projectName": "GroupTD.ECommerce.Application.Interface",
-        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj",
+        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj",
         "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\obj\\",
+        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +82,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj": {
-                "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj"
+              "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj"
               },
-              "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj"
+              "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj"
               }
             }
           }
@@ -119,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj": {
+    "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
         "projectName": "GroupTD.ECommerce.Transversal.Common",
-        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
+        "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
         "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\obj\\",
+        "outputPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

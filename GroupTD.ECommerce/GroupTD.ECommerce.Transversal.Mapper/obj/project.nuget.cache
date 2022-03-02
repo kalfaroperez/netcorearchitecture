@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "moPN8v9218jpE8B3D0dvAsenextjZC2ecj7yR8irEY5T2cAf8rfI9fyiVQTuhHsCLRzkUY11eQBh2Okyuly4GA==",
+  "dgSpecHash": "IwkTMZHOXWqQWPTuAE7tSOOqPrANYupHtM9bU+JQFCjJOcW9mzhDCC5MxmMENs9NlAIWDq5aWhMpDhGJ9jwKtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Transversal.Mapper\\GroupTD.ECommerce.Transversal.Mapper.csproj",
+  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Transversal.Mapper\\GroupTD.ECommerce.Transversal.Mapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WP215HP\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\WP215HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

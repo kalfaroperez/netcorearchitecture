@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+rD9yI7u7orcvwz0BkwxSPegGXq/K0hmlD+jIOBk2lfJ/R6AS0P9c/6EjyiDJSOpVWKFdfPB696xcKNvVxYiTg==",
+  "dgSpecHash": "tuW4IDDjOskafdISHZQ2X+fiVsyGwwf2z12q8xNlx5S37IOQasB89fqiPu9itbP+zzGkNj3nZq5IOrqnzi109w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Main\\GroupTD.ECommerce.Application.Main.csproj",
+  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Main\\GroupTD.ECommerce.Application.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WP215HP\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\WP215HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iuea4dX5bbAsfP5zDBa/8SKAmg1PAeUQGXTYMS4F4v2H2rj78ufn+ODuR0BViertMbY3DO6rovP64nzjePU6eA==",
+  "dgSpecHash": "JMCwWh98OMH9j8fn4yLLeC37Q5CwDCz5aPQjbEJBFVKtMIlu68AW/RaF3R6g4NlvqRC465N79L/N01TS5jn5Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Services.WebApi\\GroupTD.ECommerce.Services.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Services.WebApi\\GroupTD.ECommerce.Services.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WP215HP\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\WP215HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

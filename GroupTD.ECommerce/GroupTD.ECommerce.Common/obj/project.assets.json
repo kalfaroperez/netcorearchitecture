@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
+      "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
       "projectName": "GroupTD.ECommerce.Transversal.Common",
-      "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
+      "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj",
       "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\obj\\",
+      "outputPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

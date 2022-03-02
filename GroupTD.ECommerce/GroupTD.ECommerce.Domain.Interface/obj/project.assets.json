@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\GroupTD.ECommerce.Domain.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\GroupTD.ECommerce.Domain.Interface.csproj",
       "projectName": "GroupTD.ECommerce.Domain.Interface",
-      "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\GroupTD.ECommerce.Domain.Interface.csproj",
+      "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\GroupTD.ECommerce.Domain.Interface.csproj",
       "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\obj\\",
+      "outputPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj"
+            "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\WP215HP\\source\\repos\\Labs\\Net Core Architecture\\netcorearchitecture\\GroupTD.ECommerce\\GroupTD.ECommerce.Domain.Entity\\GroupTD.ECommerce.Domain.Entity.csproj"
             }
           }
         }
