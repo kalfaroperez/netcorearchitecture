@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "GroupTD.ECommerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "GroupTD.ECommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "GroupTD.ECommerce.Domain.Interface.dll": {}
+        }
+      },
+      "GroupTD.ECommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "GroupTD.ECommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupTD.ECommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupTD.ECommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

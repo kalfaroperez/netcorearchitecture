@@ -1,0 +1,17 @@
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.deps.json
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Entity.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Interface.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Infraestructure.Interface.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Entity.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Interface.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\bin\Debug\netstandard2.1\GroupTD.ECommerce.Infraestructure.Interface.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.AssemblyInfo.cs
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.csproj.CopyComplete
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Domain.Core\obj\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Core.pdb

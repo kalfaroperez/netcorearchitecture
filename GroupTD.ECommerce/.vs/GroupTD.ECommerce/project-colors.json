@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a17c930-5054-4a8c-8513-dbc32e6ae87d": {
+      "ProjectGuid": "2a17c930-5054-4a8c-8513-dbc32e6ae87d",
+      "DisplayName": "GroupTD.ECommerce.Common",
+      "ColorIndex": 0
+    },
+    "3f517698-b418-4204-9956-16cc7e8ca276": {
+      "ProjectGuid": "3f517698-b418-4204-9956-16cc7e8ca276",
+      "DisplayName": "GroupTD.ECommerce.Insfraestructure.Data",
+      "ColorIndex": 1
+    },
+    "6ef66e9c-2d50-4f83-b1f1-5d0bb440997e": {
+      "ProjectGuid": "6ef66e9c-2d50-4f83-b1f1-5d0bb440997e",
+      "DisplayName": "GroupTD.ECommerce.Infraestructure.Interface",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "344ec4c2-cc3e-4aa4-add0-162cc25b9d01": {
+      "ProjectGuid": "344ec4c2-cc3e-4aa4-add0-162cc25b9d01",
+      "DisplayName": "GroupTD.ECommerce.Transversal.Mapper",
+      "ColorIndex": 3
+    },
+    "8a1fab21-7f6c-44fe-bd31-d7f3ef92c91f": {
+      "ProjectGuid": "8a1fab21-7f6c-44fe-bd31-d7f3ef92c91f",
+      "DisplayName": "GroupTD.ECommerce.Application.Interface",
+      "ColorIndex": 4
+    },
+    "5b1618a9-a087-49d1-868d-e3c446367bb2": {
+      "ProjectGuid": "5b1618a9-a087-49d1-868d-e3c446367bb2",
+      "DisplayName": "GroupTD.ECommerce.Domain.Interface",
+      "ColorIndex": 5
+    },
+    "117d4a68-11b3-4ed8-a9e0-1e84f92429dd": {
+      "ProjectGuid": "117d4a68-11b3-4ed8-a9e0-1e84f92429dd",
+      "DisplayName": "GroupTD.ECommerce.Application.Main",
+      "ColorIndex": 6
+    },
+    "a05ec119-94b0-4280-963a-b2a79d35f597": {
+      "ProjectGuid": "a05ec119-94b0-4280-963a-b2a79d35f597",
+      "DisplayName": "GroupTD.ECommerce.Domain.Entity",
+      "ColorIndex": 7
+    },
+    "8d3b5e5a-8d91-4fad-ad33-fce987ba87c0": {
+      "ProjectGuid": "8d3b5e5a-8d91-4fad-ad33-fce987ba87c0",
+      "DisplayName": "GroupTD.ECommerce.Infraestructure.Repository",
+      "ColorIndex": 8
+    },
+    "cd7ebe0d-8ab2-415b-b2ed-6f66a3011e21": {
+      "ProjectGuid": "cd7ebe0d-8ab2-415b-b2ed-6f66a3011e21",
+      "DisplayName": "GroupTD.ECommerce.Domain.Core",
+      "ColorIndex": 9
+    },
+    "0234d6d9-f46a-4528-a2ae-27dacb08ed13": {
+      "ProjectGuid": "0234d6d9-f46a-4528-a2ae-27dacb08ed13",
+      "DisplayName": "GroupTD.ECommerce.Domain.Interface",
+      "ColorIndex": 10
+    },
+    "d1a7667b-7ea9-4581-b8f2-0b8ff960e528": {
+      "ProjectGuid": "d1a7667b-7ea9-4581-b8f2-0b8ff960e528",
+      "DisplayName": "GroupTD.ECommerce.Domain.Entity",
+      "ColorIndex": 11
+    },
+    "61a3ae85-1958-4333-b0b7-e1c2afe60407": {
+      "ProjectGuid": "61a3ae85-1958-4333-b0b7-e1c2afe60407",
+      "DisplayName": "GroupTD.ECommerce.Application.DTO",
+      "ColorIndex": 12
+    },
+    "92f41de4-174f-417c-b5b5-f26fc999ad12": {
+      "ProjectGuid": "92f41de4-174f-417c-b5b5-f26fc999ad12",
+      "DisplayName": "GroupTD.ECommerce.Services.WebApi",
+      "ColorIndex": 13
+    },
+    "00b3fea6-502e-433b-b40a-a2ba017ecfe5": {
+      "ProjectGuid": "00b3fea6-502e-433b-b40a-a2ba017ecfe5",
+      "DisplayName": "GroupTD.ECommerce.Infraestructure.Repository",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

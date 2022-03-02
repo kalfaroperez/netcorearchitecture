@@ -1,0 +1,13 @@
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\bin\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.deps.json
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\bin\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\bin\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.AssemblyInfo.cs
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.csproj.CopyComplete
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Insfraestructure.Data\obj\Debug\netstandard2.1\GroupTD.ECommerce.Insfraestructure.Data.pdb

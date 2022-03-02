@@ -1,0 +1,15 @@
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.deps.json
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\bin\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Entity.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\bin\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\bin\Debug\netstandard2.1\GroupTD.ECommerce.Domain.Entity.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Transversal.Mapper\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Mapper.pdb

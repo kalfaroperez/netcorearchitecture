@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Lh+J9CN9SRGOU1uybw/hxh5dVH9ZrYVdbieeCEhWbx2r1dqclk5Yb0eRFMppBvdALbN/Ki0hNcCh+Fx8bz1RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GrupoTD.ECommerce.Infraestructure.Repository\\GroupTD.ECommerce.Infraestructure.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WP215HP\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\WP215HP\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

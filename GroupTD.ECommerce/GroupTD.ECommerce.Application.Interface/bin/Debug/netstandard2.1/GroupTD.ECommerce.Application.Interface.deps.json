@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "GroupTD.ECommerce.Application.Interface/1.0.0": {
+        "dependencies": {
+          "GroupTD.ECommerce.Application.DTO": "1.0.0",
+          "GroupTD.ECommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "GroupTD.ECommerce.Application.Interface.dll": {}
+        }
+      },
+      "GroupTD.ECommerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "GroupTD.ECommerce.Application.DTO.dll": {}
+        }
+      },
+      "GroupTD.ECommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "GroupTD.ECommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupTD.ECommerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupTD.ECommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupTD.ECommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

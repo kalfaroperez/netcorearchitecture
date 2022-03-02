@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GroupTD.ECommerce.Common\GroupTD.ECommerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Infraestructure.Interface\GroupTD.ECommerce.Infraestructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

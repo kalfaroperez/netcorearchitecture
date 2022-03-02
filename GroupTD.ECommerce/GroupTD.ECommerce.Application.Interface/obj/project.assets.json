@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "GroupTD.ECommerce.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GroupTD.ECommerce.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GroupTD.ECommerce.Application.DTO.dll": {}
+        }
+      },
+      "GroupTD.ECommerce.Transversal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GroupTD.ECommerce.Transversal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GroupTD.ECommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupTD.ECommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../GroupTD.ECommerce.Application.DTO/GroupTD.ECommerce.Application.DTO.csproj",
+      "msbuildProject": "../GroupTD.ECommerce.Application.DTO/GroupTD.ECommerce.Application.DTO.csproj"
+    },
+    "GroupTD.ECommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "path": "../GroupTD.ECommerce.Common/GroupTD.ECommerce.Transversal.Common.csproj",
+      "msbuildProject": "../GroupTD.ECommerce.Common/GroupTD.ECommerce.Transversal.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "GroupTD.ECommerce.Application.DTO >= 1.0.0",
+      "GroupTD.ECommerce.Transversal.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\WP215HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj",
+      "projectName": "GroupTD.ECommerce.Application.Interface",
+      "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\GroupTD.ECommerce.Application.Interface.csproj",
+      "packagesPath": "C:\\Users\\WP215HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\WP215HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Application.DTO\\GroupTD.ECommerce.Application.DTO.csproj"
+            },
+            "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj": {
+              "projectPath": "C:\\Users\\WP215HP\\source\\repos\\GroupTD.ECommerce\\GroupTD.ECommerce.Common\\GroupTD.ECommerce.Transversal.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

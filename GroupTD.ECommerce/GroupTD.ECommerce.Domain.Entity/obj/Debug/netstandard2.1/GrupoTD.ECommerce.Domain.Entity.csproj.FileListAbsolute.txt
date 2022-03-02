@@ -1,0 +1,9 @@
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\bin\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.deps.json
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\bin\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\bin\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Entity\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Entity.pdb

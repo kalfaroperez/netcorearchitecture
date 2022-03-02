@@ -1,0 +1,5 @@
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Interface\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Interface.csproj.AssemblyReference.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Interface\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Interface\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Interface\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Interface.AssemblyInfo.cs
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GrupoTD.ECommerce.Domain.Interface\obj\Debug\netstandard2.1\GrupoTD.ECommerce.Domain.Interface.csproj.CoreCompileInputs.cache

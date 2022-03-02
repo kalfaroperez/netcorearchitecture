@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "GroupTD.ECommerce.Infraestructure.Repository/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.123",
+          "GroupTD.ECommerce.Infraestructure.Interface": "1.0.0",
+          "GroupTD.ECommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "GroupTD.ECommerce.Infraestructure.Repository.dll": {}
+        }
+      },
+      "Dapper/2.0.123": {
+        "dependencies": {
+          "System.Reflection.Emit.Lightweight": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.123.33578"
+          }
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {},
+      "GroupTD.ECommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "GroupTD.ECommerce.Domain.Entity.dll": {}
+        }
+      },
+      "GroupTD.ECommerce.Infraestructure.Interface/1.0.0": {
+        "dependencies": {
+          "GroupTD.ECommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "GroupTD.ECommerce.Infraestructure.Interface.dll": {}
+        }
+      },
+      "GroupTD.ECommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "GroupTD.ECommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupTD.ECommerce.Infraestructure.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.123": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "path": "dapper/2.0.123",
+      "hashPath": "dapper.2.0.123.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    },
+    "GroupTD.ECommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupTD.ECommerce.Infraestructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupTD.ECommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

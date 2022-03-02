@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Services.WebApi\bin\Debug\netcoreapp3.1\GroupTD.ECommerce.Services.WebApi.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GroupTD.ECommerce.Application.DTO\GroupTD.ECommerce.Application.DTO.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Application.Interface\GroupTD.ECommerce.Application.Interface.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Application.Main\GroupTD.ECommerce.Application.Main.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Common\GroupTD.ECommerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Domain.Core\GroupTD.ECommerce.Domain.Core.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Domain.Entity\GroupTD.ECommerce.Domain.Entity.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Domain.Interface\GroupTD.ECommerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Infraestructure.Interface\GroupTD.ECommerce.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Infraestructure.Repository\GroupTD.ECommerce.Infraestructure.Repository.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Insfraestructure.Data\GroupTD.ECommerce.Insfraestructure.Data.csproj" />
+    <ProjectReference Include="..\GroupTD.ECommerce.Transversal.Mapper\GroupTD.ECommerce.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+
+</Project>

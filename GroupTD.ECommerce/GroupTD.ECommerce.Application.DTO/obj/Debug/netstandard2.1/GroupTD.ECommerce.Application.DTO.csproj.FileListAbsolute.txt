@@ -1,0 +1,10 @@
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\bin\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.deps.json
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\bin\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\bin\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\obj\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.csproj.AssemblyReference.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\obj\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\obj\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\obj\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.AssemblyInfo.cs
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\obj\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\obj\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Application.DTO\obj\Debug\netstandard2.1\GroupTD.ECommerce.Application.DTO.pdb

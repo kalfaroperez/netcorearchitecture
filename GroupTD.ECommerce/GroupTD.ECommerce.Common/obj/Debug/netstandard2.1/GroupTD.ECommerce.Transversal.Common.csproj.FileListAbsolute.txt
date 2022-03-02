@@ -1,0 +1,10 @@
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.deps.json
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\bin\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.dll
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.pdb
+C:\Users\WP215HP\source\repos\GroupTD.ECommerce\GroupTD.ECommerce.Common\obj\Debug\netstandard2.1\GroupTD.ECommerce.Transversal.Common.csproj.AssemblyReference.cache
